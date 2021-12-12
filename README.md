@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- this is some info regarding the guidelines
+- looks good to me
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Dynamic info
+- Community bots
 
 ## Getting started
 
